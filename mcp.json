@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "staging-ledger": {
+      "url": "https://mcp.staging-ledger.example.invalid/sse",
+      "type": "sse"
+    }
+  }
+}
